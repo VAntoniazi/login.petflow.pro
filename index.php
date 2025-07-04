@@ -116,7 +116,7 @@
     </div>
 
     <div class="mt-8 border-t pt-4 text-center text-xs text-gray-400">
-      Desenvolvido com <span class="text-indigo-500">💜</span> por <a href="https://pineapplelab.net" class="text-indigo-500 hover:underline">Pineapple Lab</a>.
+      Desenvolvido com <span class="text-indigo-500">💜</span> por <a href="https://pineapplelab.net" class="text-indigo-500 hover:underline">Pineapple Lab Brasil</a>.
     </div>
   </div>
 </footer>
